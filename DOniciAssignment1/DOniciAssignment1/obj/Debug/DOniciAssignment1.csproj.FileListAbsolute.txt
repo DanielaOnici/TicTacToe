@@ -1,0 +1,11 @@
+C:\Users\danie\Desktop\PROG2370\Assignments\Assignment1\DOniciAssignment1\DOniciAssignment1\bin\Debug\DOniciAssignment1.exe.config
+C:\Users\danie\Desktop\PROG2370\Assignments\Assignment1\DOniciAssignment1\DOniciAssignment1\bin\Debug\DOniciAssignment1.exe
+C:\Users\danie\Desktop\PROG2370\Assignments\Assignment1\DOniciAssignment1\DOniciAssignment1\bin\Debug\DOniciAssignment1.pdb
+C:\Users\danie\Desktop\PROG2370\Assignments\Assignment1\DOniciAssignment1\DOniciAssignment1\obj\Debug\DOniciAssignment1.csproj.AssemblyReference.cache
+C:\Users\danie\Desktop\PROG2370\Assignments\Assignment1\DOniciAssignment1\DOniciAssignment1\obj\Debug\DOniciAssignment1.csproj.SuggestedBindingRedirects.cache
+C:\Users\danie\Desktop\PROG2370\Assignments\Assignment1\DOniciAssignment1\DOniciAssignment1\obj\Debug\DOniciAssignment1.Properties.Resources.resources
+C:\Users\danie\Desktop\PROG2370\Assignments\Assignment1\DOniciAssignment1\DOniciAssignment1\obj\Debug\DOniciAssignment1.csproj.GenerateResource.cache
+C:\Users\danie\Desktop\PROG2370\Assignments\Assignment1\DOniciAssignment1\DOniciAssignment1\obj\Debug\DOniciAssignment1.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\PROG2370\Assignments\Assignment1\DOniciAssignment1\DOniciAssignment1\obj\Debug\DOniciAssignment1.exe
+C:\Users\danie\Desktop\PROG2370\Assignments\Assignment1\DOniciAssignment1\DOniciAssignment1\obj\Debug\DOniciAssignment1.pdb
+C:\Users\danie\Desktop\PROG2370\Assignments\Assignment1\DOniciAssignment1\DOniciAssignment1\obj\Debug\DOniciAssignment1.TicTacToe.resources
